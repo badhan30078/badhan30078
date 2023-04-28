@@ -16,12 +16,12 @@
 
 ## Work Experience
 ### Trainee DevOps Engineer at BJIT (2023 - Present)
-- Managed Git repositories and branches for multiple projects
-- Implemented Git hooks and workflows to enforce code quality and automate tasks
-- Automated CI/CD pipelines using Jenkins and GitLab CI/CD
-- Utilized infrastructure as code principles to manage and provision cloud resources using Terraform
-- Orchestrated containerized applications using Docker and Kubernetes
-- Maintained and optimized AWS infrastructure for reliability and performance
+- 🔭Managed Git repositories and branches for multiple projects
+- 🌱Implemented Git hooks and workflows to enforce code quality and automate tasks
+- 💬Automated CI/CD pipelines using Jenkins and GitLab CI/CD
+- 📫Utilized infrastructure as code principles to manage and provision cloud resources using Terraform
+- 🗣Orchestrated containerized applications using Docker and Kubernetes
+- 🎉Maintained and optimized AWS infrastructure for reliability and performance
 
 ### Software Development Intern at GAOTek Inc. (2021 - 2022)
 - Assisted in Git repository management and branch management
@@ -30,7 +30,8 @@
 - Gained experience working with Docker and Kubernetes
 
 ## Education
-- Bachelor's Degree in Computer Science and Engineering, BRAC University, 2021
+- Bachelor's Degree in Computer Science and Engineering, BRAC University
+- Higher Secondery, Adamjee Cantonment College, Dhaka
 
 ## Certifications
 - DevOps Engineer - Professional
