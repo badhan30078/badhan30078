@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Your%20Badhan Saha%20-%20DevOps%20Engineer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Your%20Badhan%20-%20DevOps%20Engineer&fontSize=90)
 
 ### Hi there 👋
 
