@@ -44,3 +44,9 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/badhan30078)
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)
+
+## 📈 GitHub Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=badhan30078&label=Profile%20views&color=0e75b6&style=flat" alt="badhan30078" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=badhan30078&show_icons=true&locale=en" alt="badhan30078" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badhan30078&" alt="badhan30078" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badhan30078" alt="badhan30078" /></a> </p>
